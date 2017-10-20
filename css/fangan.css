@@ -1,0 +1,163 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none; }
+
+html, body {
+  padding: 0px;
+  margin: 0px;
+  background: #f4f4f4; }
+
+nav {
+  width: 100%;
+  height: 0.51rem;
+  background: #FFFFFF;
+  display: flex;
+  justify-content: space-between; }
+  nav .div1 {
+    width: 1.07rem;
+    height: 0.37rem;
+    margin-left: 0.09rem;
+    padding: 0.08rem; }
+    nav .div1 img {
+      width: 100%;
+      height: 100%; }
+  nav .div2 {
+    width: 18%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between; }
+    nav .div2 .icon-user {
+      font-size: 0.225rem;
+      color: #999999;
+      text-align: center;
+      margin-top: 0.01rem; }
+    nav .div2 .icon-nav {
+      font-size: 0.1525rem;
+      color: #999999;
+      text-align: center;
+      margin-top: 0.099rem; }
+    nav .div2 .p1 {
+      font-size: 0.11rem;
+      text-align: center;
+      color: #999; }
+  nav .div3 {
+    font-size: 0.18rem;
+    margin-left: -0.1rem;
+    line-height: 0.51rem; }
+
+.divv {
+  width: 95%;
+  height: 2.17rem;
+  background: #FFFFFF;
+  margin: 0 auto;
+  margin-top: 0.1rem; }
+  .divv .tupian1 {
+    width: 100%;
+    height: 1.24rem; }
+    .divv .tupian1 img {
+      width: 100%;
+      height: 100%; }
+
+.pp2 {
+  font-size: 0.18rem; }
+
+.pp3 {
+  font-size: 0.14rem; }
+
+.tianna {
+  margin-left: 0.11rem;
+  margin-top: 0.1rem; }
+
+.fang {
+  width: 0.9rem;
+  height: 0.4rem;
+  background: #ff4450;
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  margin-left: 2.14rem;
+  margin-top: -0.4rem;
+  font-size: 0.13rem;
+  text-align: center;
+  line-height: 0.4rem;
+  color: #FFFFFF; }
+
+#div7 {
+  width: 100%;
+  height: 1.5rem;
+  background: #FFFFFF;
+  margin-top: 0.18rem; }
+  #div7 p {
+    font-size: 0.14rem;
+    color: #333;
+    position: relative;
+    top: 0.18rem; }
+
+#div8 {
+  width: 100%;
+  height: 1.65rem;
+  background: #FFFFFF;
+  margin-top: 0.18rem; }
+  #div8 p {
+    font-size: 0.14rem;
+    text-align: center;
+    position: relative;
+    top: 0.2rem;
+    color: #333; }
+  #div8 span {
+    font-size: 0.15rem;
+    color: #39c893; }
+  #div8 ul {
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 0.3rem;
+    font-size: 0.15rem; }
+
+#div9 {
+  width: 100%;
+  height: 0.6rem;
+  margin-top: -0.9rem;
+  background: #000;
+  opacity: 0.8;
+  display: flex;
+  justify-content: space-between; }
+  #div9 button {
+    width: 0.875rem;
+    height: 0.25rem;
+    background: #eed215;
+    border: 0;
+    border-radius: 0.12rem;
+    color: #FFFFFF;
+    margin-top: 0.1rem;
+    font-size: 0.12rem; }
+
+.tup2 {
+  width: 0.25rem;
+  height: 0.25rem; }
+  .tup2 img {
+    width: 100%;
+    height: 100%; }
+
+.tup1 {
+  width: 0.56rem;
+  height: 0.45rem;
+  position: relative;
+  top: 0.05rem; }
+  .tup1 img {
+    width: 100%;
+    height: 100%; }
+
+.p4 {
+  font-size: 0.16rem;
+  color: #eed215;
+  width: 1.5rem; }
+
+.p5 {
+  position: relative;
+  left: -0.1rem;
+  font-size: 0.16rem;
+  color: #FFFFFF;
+  width: 1.5rem; }
+
+/*# sourceMappingURL=fangan.css.map */
